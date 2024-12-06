@@ -65,7 +65,7 @@ class DividerDemo extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: <Widget>[
                             Container(height: 5),
-                            Text("Yogi",
+                            Text("Rijall",
                                 style:
                                     Theme.of(context).textTheme.headlineMedium),
                             Container(height: 5),
